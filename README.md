@@ -1,7 +1,3 @@
-# Graphite Grub2 theme
-
-![preview](preview.svg?raw=true)
-
 ## Installation
 
 RUN:
