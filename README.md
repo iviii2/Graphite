@@ -26,8 +26,3 @@ Usage:  `sudo ./install.sh [OPTIONS...]`
  - Enter `vbeinfo` or `videoinfo` to check available resolutions
  - Open `/etc/default/grub`, and edit `GRUB_GFXMODE=[height]x[width]x32` to match your resolution
  - Finally, run `grub-mkconfig -o /boot/grub/grub.cfg` to update your grub config
-
-## Documents
-[Grub2 theme reference](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference)
-[Grub2 theme tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
-
